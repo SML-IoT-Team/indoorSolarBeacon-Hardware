@@ -1,6 +1,8 @@
-# luXb PCB Design and Schematic
+# luXb Hardware Design
 
 PCB and schematic of luXbeacon (nRF51) hardware are shared in this repository.
+1. .pdf file showing the schematic and PCB routing.
+2. gerber file for manufacturing
 
 ## Built With
 
